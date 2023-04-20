@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="">
+    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="Adding MVC">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/production/Java-Practice/axs210226/InterfaceExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/production/Java-Practice/axs210226/InterfaceExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/axs210226/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/axs210226/InterfaceExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,8 +64,16 @@
       <workItem from="1671448109401" duration="1047000" />
       <workItem from="1681808304852" duration="248000" />
       <workItem from="1681808567971" duration="3862000" />
-      <workItem from="1681860778150" duration="1629000" />
+      <workItem from="1681860778150" duration="9087000" />
     </task>
+    <task id="LOCAL-00001" summary="Adding MVC">
+      <created>1681865094369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681865094369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -79,5 +89,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding MVC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding MVC" />
   </component>
 </project>
