@@ -69,6 +69,10 @@ public class InterfaceExample1 {
         System.out.println("Bicycle present state :");
         bicycle.printStates();
 
+        //just checking the implementation of hashcode method of java
+        System.out.println(bicycle.hashCode() == 149928006);
+        System.out.println(bicycle.hashCode());
+        System.out.println(bicycle.hashCode());
         // creating instance of the bike.
         Bike bike = new Bike();
         bike.changeGear(1);
