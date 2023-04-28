@@ -1,9 +1,9 @@
 package axs210226;
 
-abstract class Base{
+ abstract class Base {
     abstract void fun();
 }
-class Derived extends Base{
+class Derived extends Base {
     @Override
     void fun() {
         System.out.println("Derived fun() called");
