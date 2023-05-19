@@ -24,7 +24,7 @@ public class Example1 {
         System.out.println(str.charAt(0) == 'A');
         System.out.println(e1.usingLiterals());
         System.out.println(e1.usingReferences());
-//        Since string is immutable, we can not assign a new character at any index in str
+//        Since string is immutable, we will not able assign a new character at any index in str
 //        str.charAt(1) = 'S';
     }
 }
