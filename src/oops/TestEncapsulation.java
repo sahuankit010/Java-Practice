@@ -1,4 +1,4 @@
-package axs210226;
+package oops;
 
 // Java program to demonstrate encapsulation
 

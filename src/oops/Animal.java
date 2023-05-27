@@ -1,4 +1,4 @@
-package axs210226;
+package oops;
 
 public interface Animal extends Mammal{
     void liveInJungle();

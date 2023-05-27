@@ -2,7 +2,7 @@
 /**
  * @author Ankit Sahu
  */
-package axs210226;
+package oops;
 
 interface Player{
     int id = 10;
@@ -16,9 +16,9 @@ public class InterfaceExample implements Player{
         InterfaceExample ie = new InterfaceExample();
         System.out.println(ie.move());
     }
-//    @Override
-//    public int move() {
-//        System.out.println("Interface Player Implemented");
-//        return id;
-//    }
+    @Override
+    public int move() {
+        System.out.println("Interface Player Implemented");
+        return id;
+    }
 }

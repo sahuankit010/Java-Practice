@@ -2,7 +2,7 @@
 /**
  * @author Ankit Sahu
  */
-package axs210226;
+package oops;
 
 interface Vehicle{
     // all are the abstract methods.

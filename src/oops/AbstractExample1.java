@@ -1,4 +1,4 @@
-package axs210226;
+package oops;
 
 abstract class Example{
     int a, b;

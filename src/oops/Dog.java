@@ -3,7 +3,7 @@
  * @author GeeksForGeeks https://www.geeksforgeeks.org/classes-objects-java/#
  */
 
-package axs210226;
+package oops;
 
 public class Dog {
     // Instance Variables

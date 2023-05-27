@@ -1,4 +1,4 @@
-package axs210226;
+package oops;
 
 public class Lion implements Animal, FourLeggedMammal, Hunter, Carnivore {
     @Override
