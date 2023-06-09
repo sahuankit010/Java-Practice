@@ -3,6 +3,12 @@ package systemDesign;
 class Example{
     private static Example instance = null;
 
+    public String s;
+    private Example()
+    {
+        s = "Hello I am a string part of Singleton class";
+    }
+
     public static Example getInstance(){
         if(instance == null){
             instance = new Example();
@@ -14,7 +20,6 @@ class Example{
 public class Singleton2 {
 
     public static void main(String[] args) {
-
         Example p = Example.getInstance();
         Example x = Example.getInstance();
         Example y = Example.getInstance();

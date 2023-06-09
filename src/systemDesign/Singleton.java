@@ -43,6 +43,7 @@ class Singleton {
     // Main driver method
     public static void main(String args[])
     {
+//        ImplementSingleton r = new ImplementSingleton();
         // Instantiating Singleton class with variable x
         ImplementSingleton x = ImplementSingleton.getInstance();
 
