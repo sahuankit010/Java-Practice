@@ -30,7 +30,7 @@ public class ThreadVsRunnable {
         Thread.sleep(1000); // Waiting for 1 second before starting next thread
         Thread t2 = new Thread(rc);
         t2.start();
-        Thread.sleep(1000); // Waiting for 1 second before starting next thread
+        Thread.sleep(8000); // Waiting for 1 second before starting next thread
         Thread t3 = new Thread(rc);
         t3.start();
 
