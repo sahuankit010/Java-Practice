@@ -1,4 +1,4 @@
-package systemDesign;
+package DesignPattern;
 
 class Example{
     private static Example instance = null;

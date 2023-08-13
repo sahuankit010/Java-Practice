@@ -15,5 +15,7 @@ public class ArrayDequeExample {
         deq.addFirst("Chennai");
         deq.addFirst("Dallas");
         System.out.println(deq);
+
+        System.out.println();
     }
 }

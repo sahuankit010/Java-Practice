@@ -4,38 +4,35 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="Adding some more collections">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="exceptional handling and multithread examples">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mydatabase.J7NGgg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mydatabase.J7NGgg.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServerPractice/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CollectionPractice/ComparatorExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Thread1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/Thread2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sudo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/AbstractExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/AbstractExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/AbstractExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/AbstractExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/AbstractExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/AbstractExample2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Carnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Carnivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/CloneExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/CloneExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/FourLeggedMammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/FourLeggedMammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/FunctionOverloading.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/FunctionOverloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/HashCodeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/HashCodeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Herbivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Herbivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Hunter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Hunter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/InterfaceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/InterfaceExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/InterfaceExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/InterfaceExample1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Kangaroo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Kangaroo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/MVCPattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/MVCPattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Mammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Mammal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Omnivore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Omnivore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/StaticExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/StaticExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/StudentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/StudentView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/StudentView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/TestEncapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/TestEncapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/axs210226/TwoLeggedMammal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/TwoLeggedMammal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionPractice/ArrayDequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionPractice/ArrayDequeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systemDesign/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/systemDesign/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,8 +50,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7f6f19f0-78b3-46d8-8dc8-03e3f506c00b" />
+        <option name="url" value="git@github.com:sahuankit010/Java-Practice.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/openjdk-18.0.1.1/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" root0="FORCE_HIGHLIGHTING" />
@@ -70,26 +80,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "extract.method.default.visibility": "private",
-    "jdk.selected.JAVA_MODULE": "openjdk-18",
-    "last_opened_file_path": "/Users/sahuankit010/Desktop/Repo/Java-Practice",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.general",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/sahuankit010/Desktop/Repo/Java-Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="SOLID" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="Exm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionPractice.Exm" />
+    <configuration name="BalancedParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionPractice.BalancedParanthesis" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
@@ -114,10 +137,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.MultiThread" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.java.MyClass" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Thread.ThreadTester" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Thread.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MyClass" />
+        <item itemvalue="Application.ThreadTester" />
+        <item itemvalue="Application.MultiThread" />
+        <item itemvalue="Application.BalancedParanthesis" />
         <item itemvalue="Application.Generics2" />
-        <item itemvalue="Application.Exm" />
       </list>
     </recent_temporary>
   </component>
@@ -151,7 +216,22 @@
       <workItem from="1683490872719" duration="599000" />
       <workItem from="1683705201378" duration="2206000" />
       <workItem from="1684051119948" duration="23571000" />
-      <workItem from="1684637221750" duration="69145000" />
+      <workItem from="1684637221750" duration="74684000" />
+      <workItem from="1685331031772" duration="11080000" />
+      <workItem from="1686038775538" duration="3593000" />
+      <workItem from="1686217076852" duration="15912000" />
+      <workItem from="1686881699064" duration="1422000" />
+      <workItem from="1686932344371" duration="2626000" />
+      <workItem from="1687609421458" duration="573000" />
+      <workItem from="1687769936018" duration="4826000" />
+      <workItem from="1688200288537" duration="99000" />
+      <workItem from="1688200440879" duration="731000" />
+      <workItem from="1688887822025" duration="4483000" />
+      <workItem from="1689326499674" duration="2506000" />
+      <workItem from="1690190441926" duration="1274000" />
+      <workItem from="1691014532803" duration="731000" />
+      <workItem from="1691026752912" duration="694000" />
+      <workItem from="1691274604841" duration="6438000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
@@ -209,7 +289,64 @@
       <option name="project" value="LOCAL" />
       <updated>1685068227494</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="package name changed and singleton class">
+      <created>1685165359822</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1685165359822</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Solid principles added">
+      <created>1685344648536</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1685344648536</updated>
+    </task>
+    <task id="LOCAL-00011" summary="jdbc experiment">
+      <created>1686280887841</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1686280887841</updated>
+    </task>
+    <task id="LOCAL-00012" summary="this keyword, final">
+      <created>1686384373146</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1686384373146</updated>
+    </task>
+    <task id="LOCAL-00013" summary="streams and big integer intro">
+      <created>1686471060264</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1686471060264</updated>
+    </task>
+    <task id="LOCAL-00014" summary="more big integer examples">
+      <created>1686522907174</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1686522907174</updated>
+    </task>
+    <task id="LOCAL-00015" summary="exceptional handling and multithread examples">
+      <created>1686551031155</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1686551031155</updated>
+    </task>
+    <task id="LOCAL-00016" summary="exceptional handling and multithread examples">
+      <option name="closed" value="true" />
+      <created>1688291321858</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1688291321858</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +371,13 @@
     <MESSAGE value="Adding queue, priorityqueue, timer to the project" />
     <MESSAGE value="Adding max priorityqueue example" />
     <MESSAGE value="Adding some more collections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding some more collections" />
+    <MESSAGE value="package name changed and singleton class" />
+    <MESSAGE value="Solid principles added" />
+    <MESSAGE value="jdbc experiment" />
+    <MESSAGE value="this keyword, final" />
+    <MESSAGE value="streams and big integer intro" />
+    <MESSAGE value="more big integer examples" />
+    <MESSAGE value="exceptional handling and multithread examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="exceptional handling and multithread examples" />
   </component>
 </project>

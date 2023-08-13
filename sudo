@@ -1,0 +1,2 @@
+COMMAND  PID         USER   FD   TYPE             DEVICE SIZE/OFF NODE NAME
+java    1865 sahuankit010   47u  IPv6 0xa66ecefb683a19f9      0t0  TCP *:http-alt (LISTEN)

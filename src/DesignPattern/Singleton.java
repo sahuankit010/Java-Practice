@@ -3,7 +3,7 @@
  * https://www.geeksforgeeks.org/singleton-class-java/
  */
 
-package systemDesign;
+package DesignPattern;
 
 
 // Java program implementing Singleton class
