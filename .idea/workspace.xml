@@ -5,34 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="exceptional handling and multithread examples">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mydatabase.J7NGgg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mydatabase.J7NGgg.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/mysql.osA4Bg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/performance_schema.kIw0nw.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServerPractice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CollectionPractice/ComparatorExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Thread1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/Thread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Thread/ThreadTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sudo" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionPractice/ArrayDequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionPractice/ArrayDequeExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systemDesign/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/systemDesign/Singleton2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DesignPattern/Singleton2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/MyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +48,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2J86EvgzsuB7rZlj5Ar2OY8AK9v" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -109,47 +88,11 @@
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="SOLID" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Examples" />
+    </key>
   </component>
-  <component name="RunManager">
-    <configuration name="BalancedParanthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionPractice.BalancedParanthesis" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Generics2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionPractice.Generics2" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="CollectionPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MultiThread" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.MultiThread" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Thread.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringReverse">
     <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.java.MyClass" />
       <module name="Java-Practice" />
@@ -163,12 +106,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThreadTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Thread.ThreadTester" />
+    <configuration name="OOPSApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.OOPSApplication" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Thread.*" />
+          <option name="PATTERN" value="oops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Examples.ObjectExample" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.StringReverse" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="inter_face" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.inter_face" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="oops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.ThreadTester" />
-        <item itemvalue="Application.MultiThread" />
-        <item itemvalue="Application.BalancedParanthesis" />
-        <item itemvalue="Application.Generics2" />
+        <item itemvalue="Application.inter_face" />
+        <item itemvalue="Application.OOPSApplication" />
+        <item itemvalue="Application.ObjectExample" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +213,16 @@
       <workItem from="1690190441926" duration="1274000" />
       <workItem from="1691014532803" duration="731000" />
       <workItem from="1691026752912" duration="694000" />
-      <workItem from="1691274604841" duration="6438000" />
+      <workItem from="1691274604841" duration="7125000" />
+      <workItem from="1694633218528" duration="587000" />
+      <workItem from="1695453612925" duration="702000" />
+      <workItem from="1695760723862" duration="54000" />
+      <workItem from="1696231369233" duration="198000" />
+      <workItem from="1696231618940" duration="1455000" />
+      <workItem from="1696311619839" duration="7008000" />
+      <workItem from="1697221312830" duration="65000" />
+      <workItem from="1697934833909" duration="2268000" />
+      <workItem from="1698112647778" duration="954000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
