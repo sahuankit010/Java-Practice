@@ -1,5 +1,6 @@
 package TestExamples;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
@@ -29,5 +30,9 @@ public class MyClass {
     public static void main(String[] args) throws Exception {
         MyClass myClass = new MyClass();
         System.out.println(myClass.getValue("fubar", 1));
+
+        System.out.println();
+
+
     }
 }

@@ -11,10 +11,11 @@ public class StringReverse {
     }
 
     public static void main(String[] args) {
-        String str = new String("Welcome to Beginners book");
+        String str = new String("level");
 
         String ans = recur(str);
+//        str.
 
-        System.out.println(ans);
+        System.out.println(str.equals(ans));
     }
 }

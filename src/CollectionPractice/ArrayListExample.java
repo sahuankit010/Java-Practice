@@ -10,12 +10,20 @@ public class ArrayListExample {
         Iterator<Integer> it = al.iterator();
 
         Collections.reverse(al);
+
+        // 23, 54, 2, 1
         while(it.hasNext()){
             int a = it.next();
-            it.remove();
+//            it.remove();
             System.out.println(a);
         }
 
         System.out.println(al.isEmpty());
+
+        ListIterator li = al.listIterator(al.size());
+
+        while(li.hasPrevious()){
+            System.out.println(li.previous());
+        }
     }
 }

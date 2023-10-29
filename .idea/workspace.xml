@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="exceptional handling and multithread examples">
+    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="add more examples like list, string reverse, timer class, interface">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CollectionPractice/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionPractice/ArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestExamples/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/MyClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +93,13 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringReverse">
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.java.MyClass" />
+  <component name="RunManager" selected="Application.Exam2">
+    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollectionPractice.ArrayListExample" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.java.*" />
+          <option name="PATTERN" value="CollectionPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OOPSApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.OOPSApplication" />
+    <configuration name="ArrayVsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.ArrayVsArrayList" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,21 +120,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ObjectExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Examples.ObjectExample" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Examples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExamples.StringReverse" />
+    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.Exam2" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
@@ -145,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inter_face" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.inter_face" />
+    <configuration name="InheritenceExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="oops.InheritenceExample3" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
@@ -158,13 +146,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.MyClass" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringReverse" />
+        <item itemvalue="Application.Exam2" />
         <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.inter_face" />
-        <item itemvalue="Application.OOPSApplication" />
-        <item itemvalue="Application.ObjectExample" />
+        <item itemvalue="Application.ArrayListExample" />
+        <item itemvalue="Application.ArrayVsArrayList" />
+        <item itemvalue="Application.InheritenceExample3" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +223,9 @@
       <workItem from="1696311619839" duration="7008000" />
       <workItem from="1697221312830" duration="65000" />
       <workItem from="1697934833909" duration="2268000" />
-      <workItem from="1698112647778" duration="954000" />
+      <workItem from="1698112647778" duration="3282000" />
+      <workItem from="1698442694254" duration="1394000" />
+      <workItem from="1698444334219" duration="6977000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
@@ -337,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688291321858</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="add more examples like list, string reverse, timer class, interface">
+      <option name="closed" value="true" />
+      <created>1698131702832</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698131702832</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +380,7 @@
     <MESSAGE value="streams and big integer intro" />
     <MESSAGE value="more big integer examples" />
     <MESSAGE value="exceptional handling and multithread examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="exceptional handling and multithread examples" />
+    <MESSAGE value="add more examples like list, string reverse, timer class, interface" />
+    <option name="LAST_COMMIT_MESSAGE" value="add more examples like list, string reverse, timer class, interface" />
   </component>
 </project>
