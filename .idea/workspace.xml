@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="add more examples like list, string reverse, timer class, interface">
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CollectionPractice/ArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CollectionPractice/ArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestExamples/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/MyClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +89,13 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exam2">
-    <configuration name="ArrayListExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CollectionPractice.ArrayListExample" />
+  <component name="RunManager" selected="Application.TreeMap3">
+    <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Practice.A2" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="CollectionPractice.*" />
+          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayVsArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.ArrayVsArrayList" />
+    <configuration name="PrintFrequenciesInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Practice.PrintFrequenciesInOrder" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exam2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExamples.Exam2" />
+    <configuration name="TreeMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap1" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestExamples.*" />
+          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InheritenceExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oops.InheritenceExample3" />
+    <configuration name="TreeMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap2" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oops.*" />
+          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MyClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExamples.MyClass" />
+    <configuration name="TreeMap3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap3" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestExamples.*" />
+          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exam2" />
-        <item itemvalue="Application.MyClass" />
-        <item itemvalue="Application.ArrayListExample" />
-        <item itemvalue="Application.ArrayVsArrayList" />
-        <item itemvalue="Application.InheritenceExample3" />
+        <item itemvalue="Application.TreeMap3" />
+        <item itemvalue="Application.TreeMap2" />
+        <item itemvalue="Application.TreeMap1" />
+        <item itemvalue="Application.PrintFrequenciesInOrder" />
+        <item itemvalue="Application.A2" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +221,9 @@
       <workItem from="1697934833909" duration="2268000" />
       <workItem from="1698112647778" duration="3282000" />
       <workItem from="1698442694254" duration="1394000" />
-      <workItem from="1698444334219" duration="6977000" />
+      <workItem from="1698444334219" duration="12759000" />
+      <workItem from="1698897462535" duration="598000" />
+      <workItem from="1699037064466" duration="2873000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
