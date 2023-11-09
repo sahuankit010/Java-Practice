@@ -89,7 +89,20 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P2">
+  <component name="RunManager" selected="Application.E1">
+    <configuration name="E1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.E1" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IOPractice.P1" />
       <module name="Java-Practice" />
@@ -109,19 +122,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="IOPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TreeMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap1" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Map_Practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.E1" />
         <item itemvalue="Application.P2" />
         <item itemvalue="Application.P1" />
         <item itemvalue="Application.TreeMap3" />
         <item itemvalue="Application.TreeMap2" />
-        <item itemvalue="Application.TreeMap1" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +224,7 @@
       <workItem from="1698444334219" duration="12759000" />
       <workItem from="1698897462535" duration="598000" />
       <workItem from="1699037064466" duration="2873000" />
-      <workItem from="1699149418613" duration="3498000" />
+      <workItem from="1699149418613" duration="9799000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
