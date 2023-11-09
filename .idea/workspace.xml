@@ -89,13 +89,13 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TreeMap3">
-    <configuration name="A2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Practice.A2" />
+  <component name="RunManager" selected="Application.P2">
+    <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOPractice.P1" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Practice.*" />
+          <option name="PATTERN" value="IOPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintFrequenciesInOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Practice.PrintFrequenciesInOrder" />
+    <configuration name="P2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IOPractice.P2" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Practice.*" />
+          <option name="PATTERN" value="IOPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.P2" />
+        <item itemvalue="Application.P1" />
         <item itemvalue="Application.TreeMap3" />
         <item itemvalue="Application.TreeMap2" />
         <item itemvalue="Application.TreeMap1" />
-        <item itemvalue="Application.PrintFrequenciesInOrder" />
-        <item itemvalue="Application.A2" />
       </list>
     </recent_temporary>
   </component>
@@ -224,6 +224,7 @@
       <workItem from="1698444334219" duration="12759000" />
       <workItem from="1698897462535" duration="598000" />
       <workItem from="1699037064466" duration="2873000" />
+      <workItem from="1699149418613" duration="3498000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
