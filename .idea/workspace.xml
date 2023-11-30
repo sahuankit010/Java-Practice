@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="add more examples like list, string reverse, timer class, interface">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,9 +90,9 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.E1">
-    <configuration name="E1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExamples.E1" />
+  <component name="RunManager" selected="Application.P3Driver">
+    <configuration name="E2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.E2" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
@@ -129,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMap2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap2" />
+    <configuration name="P3Driver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MDS.P3Driver" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Practice.*" />
+          <option name="PATTERN" value="MDS.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMap3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Map_Practice.TreeMap3" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.Solution" />
       <module name="Java-Practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Map_Practice.*" />
+          <option name="PATTERN" value="TestExamples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.E1" />
+        <item itemvalue="Application.P3Driver" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.P2" />
         <item itemvalue="Application.P1" />
-        <item itemvalue="Application.TreeMap3" />
-        <item itemvalue="Application.TreeMap2" />
+        <item itemvalue="Application.E2" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +225,12 @@
       <workItem from="1698444334219" duration="12759000" />
       <workItem from="1698897462535" duration="598000" />
       <workItem from="1699037064466" duration="2873000" />
-      <workItem from="1699149418613" duration="9799000" />
+      <workItem from="1699149418613" duration="12204000" />
+      <workItem from="1699736341271" duration="5175000" />
+      <workItem from="1700296964725" duration="597000" />
+      <workItem from="1700372362856" duration="593000" />
+      <workItem from="1700790707052" duration="598000" />
+      <workItem from="1701149660999" duration="596000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
