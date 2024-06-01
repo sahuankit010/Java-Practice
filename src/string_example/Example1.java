@@ -26,5 +26,12 @@ public class Example1 {
         System.out.println(e1.usingReferences());
 //        Since string is immutable, we will not able assign a new character at any index in str
 //        str.charAt(1) = 'S';
+
+        String s1 = "ONE";
+
+        s1.concat("TWO");
+        s1.concat("THREE");
+
+        System.out.println(s1);
     }
 }

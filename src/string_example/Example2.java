@@ -10,5 +10,9 @@ public class Example2 {
         System.out.println(str2.hashCode());
 
         System.out.println(str1.substring(2, 5));
+
+        while(1==1){
+            System.out.println("Hello");
+        }
     }
 }

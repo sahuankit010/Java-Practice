@@ -11,11 +11,21 @@ public class StringReverse {
     }
 
     public static void main(String[] args) {
-        String str = new String("level");
+//        String str = new String("level");
+//
+//        String ans = recur(str);
+////        str.
+//
+//        System.out.println(str.equals(ans));
 
-        String ans = recur(str);
-//        str.
+        int i = 0;
 
-        System.out.println(str.equals(ans));
+        if(System.out.printf("Yo! ") == null) {
+
+        }
+        for(i = 1; i < 2; System.out.println("Hello World."))
+        {
+            i++;
+        }
     }
 }

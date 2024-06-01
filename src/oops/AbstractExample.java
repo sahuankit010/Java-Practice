@@ -1,11 +1,11 @@
 package oops;
 
- abstract class Base {
-    abstract void fun();
+abstract class Base {
+     abstract void fun();
 }
 class Derived extends Base {
     @Override
-    void fun() {
+    final void fun() {
         System.out.println("Derived fun() called");
     }
 }
