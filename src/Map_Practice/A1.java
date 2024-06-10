@@ -10,11 +10,11 @@ public class A1 {
 
         hashMap.put("Ankit", 1);
 
-        System.out.println(hashMap);
+        hashMap.put("Sahu", 2);
 
-        hashMap.put("Ankit", 2);
-
-        System.out.println(hashMap);
+        for(Map.Entry<String, Integer> e: hashMap.entrySet()){
+            System.out.println(e.getKey() + " " + e.getValue());
+        }
 
         if(hashMap.containsKey("Ankit"))
             System.out.println("present");

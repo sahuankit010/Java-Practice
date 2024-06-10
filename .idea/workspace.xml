@@ -4,9 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="add more examples like list, string reverse, timer class, interface">
+    <list default="true" id="94b96aef-c99f-4f97-8ccb-8c3c49e4a998" name="Changes" comment="add mds project">
       <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/bdf8be65-0a83-4ccf-b51d-d274fb3f6355.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Examples/JavaEqual.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Examples/JavaEqual.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IOPractice/P2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IOPractice/P2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestExamples/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/oops/AbstractExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/oops/AbstractExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_example/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_example/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/string_example/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/string_example/Example2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +73,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;openjdk-18&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/sahuankit010/Desktop/Repo/Java-Practice&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -83,6 +93,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/MDS" />
+    </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
       <recent name="SOLID" />
     </key>
@@ -90,20 +103,7 @@
       <recent name="Examples" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.P3Driver">
-    <configuration name="E2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestExamples.E2" />
-      <module name="Java-Practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestExamples.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.StringReverse">
     <configuration name="P1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="IOPractice.P1" />
       <module name="Java-Practice" />
@@ -156,15 +156,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TestExamples.StringReverse" />
+      <module name="Java-Practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestExamples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.P3Driver" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.P2" />
         <item itemvalue="Application.P1" />
-        <item itemvalue="Application.E2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-18.0.2-corretto-18.0.2-3183f394aec4-229f571c" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -231,6 +251,16 @@
       <workItem from="1700372362856" duration="593000" />
       <workItem from="1700790707052" duration="598000" />
       <workItem from="1701149660999" duration="596000" />
+      <workItem from="1701339420912" duration="699000" />
+      <workItem from="1701409876916" duration="688000" />
+      <workItem from="1701546883647" duration="9000" />
+      <workItem from="1701551254429" duration="1575000" />
+      <workItem from="1702062622474" duration="4000" />
+      <workItem from="1702073970088" duration="721000" />
+      <workItem from="1706345984577" duration="50000" />
+      <workItem from="1706346068619" duration="177000" />
+      <workItem from="1711242567113" duration="680000" />
+      <workItem from="1711560999447" duration="648000" />
     </task>
     <task id="LOCAL-00001" summary="Adding MVC">
       <created>1681865094369</created>
@@ -353,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698131702832</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="add mds project">
+      <option name="closed" value="true" />
+      <created>1701339522315</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1701339522315</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,6 +424,7 @@
     <MESSAGE value="more big integer examples" />
     <MESSAGE value="exceptional handling and multithread examples" />
     <MESSAGE value="add more examples like list, string reverse, timer class, interface" />
-    <option name="LAST_COMMIT_MESSAGE" value="add more examples like list, string reverse, timer class, interface" />
+    <MESSAGE value="add mds project" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mds project" />
   </component>
 </project>
