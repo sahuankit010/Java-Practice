@@ -40,5 +40,6 @@ public class MLAssessment {
         int[] coins = {1, 10};
 
         System.out.println(mlAssessment.getMaximumCoordinate(initialCoins, points, coins));
+        System.out.println(mlAssessment.getClass());
     }
 }
