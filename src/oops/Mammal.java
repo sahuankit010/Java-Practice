@@ -3,5 +3,8 @@ package oops;
 public interface Mammal {
     void move();
     void eat();
-    boolean possessIntelligence();
+    default boolean possessIntelligence(){
+        System.out.println("It has a default implementation");
+        return false;
+    }
 }
