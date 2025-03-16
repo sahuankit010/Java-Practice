@@ -3,8 +3,7 @@ package oops;
 interface Student1
 {
      int a =5;
-      void data();
-
+     void data();
 }
 class avi implements Student1
 {

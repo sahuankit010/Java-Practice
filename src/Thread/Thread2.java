@@ -1,5 +1,6 @@
 package Thread;
 
+// good way to use thread
 public class Thread2 implements Runnable{
 
     @Override

@@ -10,7 +10,7 @@ class TreeMap2 {
         // Initialization of a TreeMap
         // using Generics
         TreeMap<Integer, String> t
-                = new TreeMap<Integer, String>();
+                = new TreeMap<>();
 
         // Inserting the Elements
         t.put(10, "geeks");

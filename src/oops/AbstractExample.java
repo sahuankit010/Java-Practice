@@ -1,6 +1,6 @@
 package oops;
 
-abstract class Base {
+ abstract class Base {
      abstract void fun();
 }
 class Derived extends Base {

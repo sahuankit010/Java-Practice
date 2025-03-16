@@ -16,6 +16,11 @@ public class A1 {
             System.out.println(e.getKey() + " " + e.getValue());
         }
 
+        hashMap.forEach((k, v) -> {
+            System.out.print(k);
+            System.out.println(" " + v);
+        });
+
         if(hashMap.containsKey("Ankit"))
             System.out.println("present");
 

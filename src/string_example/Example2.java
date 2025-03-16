@@ -16,5 +16,9 @@ public class Example2 {
         System.out.println(str1 == str3);
         System.out.println(str2 == str4);
         System.out.println(str1.substring(2, 5));
+        System.out.println(str1.equals(str2));
+        System.out.println(str1.equals(str3));
+        System.out.println(str1.equals(str4));
+
     }
 }

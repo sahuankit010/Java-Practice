@@ -11,6 +11,7 @@ abstract class Example{
 }
 
 class Implementation extends Example{
+    @Override
     void printName(){
         System.out.println("Abstract class Example");
         System.out.println("a = " + a + " b = " + b);

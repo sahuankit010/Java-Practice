@@ -1,5 +1,6 @@
 package Thread;
 
+// worst way to use thread
 public class Thread1 extends Thread{
 
     public Thread1(String thread1) {

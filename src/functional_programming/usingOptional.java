@@ -12,6 +12,7 @@ public class usingOptional {
         List<String> fruits = new ArrayList<>(List.of("Banana", "Apple", "Cucumber"));
 
         Predicate<? super String> predicate = fruit -> fruit.startsWith("B");
+//        Optional<String> first = fruits.stream().filter(fruit -> fruit.startsWith("B")).findFirst();
         Optional<String> first = fruits.stream().filter(predicate).findFirst();
 
         System.out.println(first);

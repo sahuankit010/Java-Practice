@@ -9,6 +9,8 @@ public class Example2 {
             System.out.println("Error  : " + e.getMessage());
         } catch (Exception e) {
             System.out.println("Error: " + e.getMessage());
+        } finally {
+            System.out.println("Finally Executed");
         }
     }
 }

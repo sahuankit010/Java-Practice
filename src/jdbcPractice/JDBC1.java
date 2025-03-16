@@ -10,7 +10,7 @@ public class JDBC1 {
 
             //creating a connection
 
-            String url = "jdbc:mysql://localhost:3306/mydatabase";
+            String url = "jdbc:mysql://localhost:3306/hiber";
 
             Connection con = DriverManager.getConnection(url);
 
